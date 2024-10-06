@@ -9,7 +9,19 @@ var win = false;
 List<int> tentatives = new List<int>();
 
 while(win != true ){
-    var nombreEssaie = tentatives.Count() +1;
+    Console.Clear();
+    var nombreEssaie = tentatives.Count();
+
+    if (tentatives.Count() > 0)
+    {
+        System.Console.WriteLine("Nombre jouées : ");
+        foreach (var item in tentatives)
+        {
+            System.Console.Write($"{item},");
+        }
+        System.Console.WriteLine();
+    }
+
     //Console.Clear();
     System.Console.WriteLine($"tentatives numéro => {nombreEssaie}, Roulette Russe Activée, donne moi un chiffre: ");
 
@@ -18,7 +30,6 @@ while(win != true ){
     inputUser = Console.ReadLine();
     int chiffre = int.Parse(inputUser);
     tentatives.Add(chiffre);
-  
 
     //Algorythme jeux
     if(chiffre == nbr){
