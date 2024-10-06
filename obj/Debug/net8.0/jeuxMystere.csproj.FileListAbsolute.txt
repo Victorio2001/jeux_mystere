@@ -1,0 +1,14 @@
+D:\ProjetC#\jeuxMystere\bin\Debug\net8.0\jeuxMystere.exe
+D:\ProjetC#\jeuxMystere\bin\Debug\net8.0\jeuxMystere.deps.json
+D:\ProjetC#\jeuxMystere\bin\Debug\net8.0\jeuxMystere.runtimeconfig.json
+D:\ProjetC#\jeuxMystere\bin\Debug\net8.0\jeuxMystere.dll
+D:\ProjetC#\jeuxMystere\bin\Debug\net8.0\jeuxMystere.pdb
+D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\jeuxMystere.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\jeuxMystere.AssemblyInfoInputs.cache
+D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\jeuxMystere.AssemblyInfo.cs
+D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\jeuxMystere.csproj.CoreCompileInputs.cache
+D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\jeuxMystere.dll
+D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\refint\jeuxMystere.dll
+D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\jeuxMystere.pdb
+D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\jeuxMystere.genruntimeconfig.cache
+D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\ref\jeuxMystere.dll
