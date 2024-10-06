@@ -26,20 +26,31 @@ while(win != true ){
     System.Console.WriteLine($"tentatives numéro => {nombreEssaie}, Roulette Russe Activée, donne moi un chiffre: ");
 
     //Nombre User
-    string inputUser;
-    inputUser = Console.ReadLine();
-    int chiffre = int.Parse(inputUser);
-    tentatives.Add(chiffre);
+    try
+    {
+        string inputUser;
+        inputUser = Console.ReadLine();
+        int chiffre = int.Parse(inputUser);
+        tentatives.Add(chiffre);
 
-    //Algorythme jeux
-    if(chiffre == nbr){
-        System.Console.WriteLine($"Bravo pour cette victoire");
-        win = true;
-    }else if(chiffre < nbr){
-        System.Console.WriteLine($"Plus grand !!!");
-    }else{
-        System.Console.WriteLine($"Plus petit !!!");
+        //Algorythme jeux
+        if(chiffre == nbr){
+            System.Console.WriteLine($"Bravo pour cette victoire");
+            win = true;
+        }else if(chiffre < nbr){
+            System.Console.WriteLine($"Plus grand !!!");
+        }else{
+            System.Console.WriteLine($"Plus petit !!!");
+        }
     }
+    catch (Exception e)
+    {
+        Console.WriteLine(e.Message);
+        break;
+    }
+    
+
+    
 }
 
 
