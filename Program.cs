@@ -6,7 +6,7 @@ int nbr = rand.Next(0, 10);
 var win = false;
 
 //Ajout du nombre de try
-List<int> tentatives = new List<int>();
+List<int> tentatives = [];
 
 while(win != true ){
     Console.Clear();
