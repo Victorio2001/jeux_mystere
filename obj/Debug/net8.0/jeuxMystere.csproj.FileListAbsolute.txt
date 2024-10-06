@@ -12,3 +12,4 @@ D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\refint\jeuxMystere.dll
 D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\jeuxMystere.pdb
 D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\jeuxMystere.genruntimeconfig.cache
 D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\ref\jeuxMystere.dll
+D:\ProjetC#\jeuxMystere\obj\Debug\net8.0\jeuxMystere.sourcelink.json
